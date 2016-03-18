@@ -83,7 +83,7 @@ public class Akun {
 		}
 		}
 	    if (!ketemu) {
-		System.out.println("Remove Konco Gagal");
+		System.out.println("Remove Teman Gagal");
 	}
         }
 }
